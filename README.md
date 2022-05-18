@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Orao
-- 👀 I’m interested in Software Development.
+- 👀 I’m interested in Software Development and system Design.
 - 🌱 I’m currently learning Reactjs, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Both Backend and Frontend Applications.
+- 📫 How to reach me oraowycliffe@gmail.com
 
-<!---
-OraoCodes/OraoCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
